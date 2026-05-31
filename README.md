@@ -168,14 +168,6 @@ Prompt Engineering
 
 # 📊 GitHub Analytics
 
-<div align="center">
-
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=sumith25-dev&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumith25-dev&layout=compact&theme=tokyonight)
-
-</div>
-
 ---
 
 <div align="center">
@@ -190,15 +182,10 @@ Prompt Engineering
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumith25-dev\&theme=tokyo-night)](https://github.com/sumith25-dev)
 
----
 
-# 🐍 Contribution Snake
-
-![Snake animation](https://github.com/sumith25-dev/sumith25-dev/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
----
 
 # 🔥 Current Focus
 
