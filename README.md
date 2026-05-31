@@ -1,160 +1,150 @@
 <div align="center">
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sumith%20B%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20MLOps%20%7C%20Deep%20Learning&descAlignY=55&descSize=18"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Building+Production+ML+Systems+%F0%9F%9A%80;PyTorch+%7C+MLOps+%7C+LLMs+%7C+Computer+Vision;From+Bengaluru%2C+India+%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumith-b-r-548534200/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sumith25-dev)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sumithbr2020@gmail.com)
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-1D9E75?style=for-the-badge)](https://ml-ops-image-classification-production.up.railway.app/docs)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Sumith+B+R;AI+%26+ML+Engineer;MLOps+Engineer;Deep+Learning+Enthusiast;Building+Production+ML+Systems+🚀;Open+to+ML+Engineer+Roles" />
 
 </div>
 
 ---
 
-<img align="right" alt="AI Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<div align="center">
 
-## 🧑‍💻 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=SUMITH%20B%20R&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 
-- 🔬 Building **production MLOps pipelines** & LLM applications
-- 🌱 Currently mastering **MLOps**, **LLM fine-tuning**, **distributed systems**
-- 🏆 **Best Project Award 2026** — AI for Rheumatoid Arthritis Classification
-- 🥈 **2nd Place** — Mini Project Exhibition with EchoVerse AI Audiobook Tool
-- 🎓 B.E. in AI & ML — BIET Davangere · CGPA: **8.1/10.0**
-- 💬 Ask me about **PyTorch · MLOps · Transformers · FastAPI**
+</div>
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+
+# 👨‍💻 About Me
+
+* 🎓 B.E. in Artificial Intelligence & Machine Learning
+* 🏫 BIET Davangere
+* 📊 CGPA: **8.1 / 10**
+* 🔬 Passionate about Machine Learning, Deep Learning and MLOps
+* 🌱 Currently Learning Kubernetes, AWS and LLM Fine-Tuning
+* 🏆 Best Project Award 2026
+* 🥈 2nd Place Mini Project Exhibition
+* 💼 Looking for AI Engineer / ML Engineer Opportunities
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/sumith-b-r-548534200/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:sumithbr2020@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sumith25-dev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+# 🚀 Tech Stack
 
 <div align="center">
 
-**Languages & Core**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-**Deep Learning & ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**MLOps & Deployment**
-
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-**Databases & Visualization**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,pytorch,tensorflow,docker,aws,github,mongodb,postgresql,fastapi,vscode"/>
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+# 🧠 AI / ML Skills
 
-<div align="center">
+```text
+Machine Learning
+Deep Learning
+Computer Vision
+Natural Language Processing
+Large Language Models
+MLOps
+Model Deployment
+Prompt Engineering
+```
+
+---
+
+# 🚀 Featured Projects
+
 
 ### 🎨 MLOps Image Classification Pipeline
 > **Production-grade MLOps system — Built for Adobe ML Engineer Application**
 
-[![Live](https://img.shields.io/badge/🌍_Live_Demo-00C851?style=for-the-badge)](https://ml-ops-image-classification-production.up.railway.app/docs)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/sumith25-dev/ML-ops-Image-Classification)
+[![Live Demo](https://img.shields.io/badge/🌍_Live_Demo-00C851?style=for-the-badge)](https://ml-ops-image-classification-production.up.railway.app/docs)
+[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/sumith25-dev/ML-ops-Image-Classification)
 [![CI/CD](https://github.com/sumith25-dev/ML-ops-Image-Classification/actions/workflows/ci_cd.yml/badge.svg)](https://github.com/sumith25-dev/ML-ops-Image-Classification/actions)
 
-</div>
-
-```
-🎯 EfficientNet-B0 trained on 14,000 real images → 86.85% validation accuracy
-⚖️  A/B Testing: 80% stable / 20% canary with deterministic per-user routing
-📊 MLflow model registry with versioning, aliases, and experiment tracking
-🔍 Evidently AI drift detection with automatic retraining triggers
-🐳 Docker Compose + GitHub Actions CI/CD ✅ passing
-☁️  Deployed publicly on Railway — anyone can use it!
-```
+| Feature | Details |
+|---|---|
+| 🎯 Model | EfficientNet-B0 — **86.85% accuracy** |
+| 📦 Dataset | 14,000 real images (Intel Image Classification) |
+| ⚖️ A/B Testing | 80% stable / 20% canary routing |
+| 📊 MLflow | Model registry, versioning, experiment tracking |
+| 🔍 Drift Detection | Evidently AI — auto retraining triggers |
+| 🐳 Deployment | Docker + Railway (publicly live) |
+| ✅ CI/CD | GitHub Actions — passing |
 
 `PyTorch` `FastAPI` `MLflow` `Docker` `EfficientNet` `Evidently AI` `GitHub Actions` `Railway`
 
 ---
 
-<div align="center">
-
 ### 🦴 Clinical Rheumatoid Arthritis Assessment System
-> 🏆 **Best Project Award 2026 — Nirmana Exhibition**
+> 🏆 **Best Project Award 2026 — Nirmana Exhibition, BIET Davangere**
 
-</div>
-
-```
-🩺 Dual-modal clinical decision support system for RA diagnosis
-🧠 Blood Biomarker ANN → 91.26% accuracy
-🦴 Swin Transformer on X-rays → 85.83% accuracy / 94.95% recall
-🤖 Groq-powered AI assistant for natural language patient queries
-```
+| Feature | Details |
+|---|---|
+| 🧠 Blood Biomarker ANN | **91.26% accuracy** |
+| 🦴 Swin Transformer (X-rays) | **85.83% accuracy / 94.95% recall** |
+| 🤖 AI Assistant | Groq-powered natural language queries |
+| 📊 Validation | 5-fold cross-validation (±1.78% variance) |
 
 `PyTorch` `Swin Transformer` `Streamlit` `Groq API` `SQLite`
 
 ---
 
-<div align="center">
-
 ### 📞 Customer Churn Prediction System
+> Data Science Internship — Qspiders, Bengaluru
 
-</div>
-
-```
-📈 92% accuracy · 0.89 AUC-ROC · 88% recall
-🔍 SHAP explainability dashboard
-⚡ Prediction time: weeks → < 2 seconds
-```
+| Metric | Value |
+|---|---|
+| Accuracy | **92%** |
+| AUC-ROC | **0.89** |
+| Recall | **88%** |
+| Prediction Time | weeks → **< 2 seconds** |
 
 `XGBoost` `SHAP` `Scikit-learn` `Streamlit` `SMOTE`
 
 ---
 
-<div align="center">
-
 ### 🎧 EchoVerse — AI Audiobook Creation Tool
-> 🥈 **2nd Place — Mini Project Exhibition 2025**
+> 🥈 **2nd Place — Mini Project Exhibition, JIT College 2025**
 
-</div>
-
-```
-🎙️ IBM Granite-3.1 LLM + Google TTS → MP3 audiobooks
-🔗 Flask backend integrating 2 production AI APIs
-```
+- IBM Granite-3.1 LLM + Google TTS → MP3 audiobooks
+- Flask backend integrating 2 production AI APIs seamlessly
 
 `Flask` `IBM Granite-3.1` `Google TTS` `LLM Orchestration`
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumith25-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumith25-dev&layout=compact&langs_count=8&theme=tokyonight"/>
-
-</div>
+# 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumith25-dev&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumith25-dev&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumith25-dev&layout=compact&theme=tokyonight"/>
 
 </div>
 
@@ -162,10 +152,66 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://streak-stats.demolab.com?user=sumith25-dev&theme=tokyonight"/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=sumith25-dev&color=00D4FF&style=for-the-badge&label=Profile+Views)
+</div>
 
-*"Building intelligent systems, one model at a time."* 🚀
+---
+
+# 📈 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sumith25-dev\&theme=tokyo-night)](https://github.com/sumith25-dev)
+
+---
+
+# 🐍 Contribution Snake
+
+![Snake animation](https://github.com/sumith25-dev/sumith25-dev/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
+# 💻 Coding Animation
+
+<div align="center">
+
+<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
+
+</div>
+
+---
+
+# 🔥 Current Focus
+
+```python
+class SumithBR:
+
+    def __init__(self):
+        self.role = "AI & ML Engineer"
+        self.learning = [
+            "MLOps",
+            "Kubernetes",
+            "AWS",
+            "LLMs"
+        ]
+
+    def current_goal(self):
+        return "Build scalable AI products"
+```
+
+---
+
+# 💡 Quote
+
+<div align="center">
+
+### 🚀 Building intelligent systems that solve real-world problems.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sumith25-dev&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
 </div>
