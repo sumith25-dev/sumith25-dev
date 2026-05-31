@@ -168,9 +168,9 @@ Prompt Engineering
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sumith25-dev&show_icons=true&theme=tokyonight"/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=sumith25-dev&show_icons=true&theme=tokyonight)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumith25-dev&layout=compact&theme=tokyonight"/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sumith25-dev&layout=compact&theme=tokyonight)
 
 </div>
 
@@ -195,14 +195,6 @@ Prompt Engineering
 ![Snake animation](https://github.com/sumith25-dev/sumith25-dev/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
-
-# 💻 Coding Animation
-
-<div align="center">
-
-<img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="700"/>
-
-</div>
 
 ---
 
