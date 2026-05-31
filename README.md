@@ -191,6 +191,7 @@ Prompt Engineering
 
 ## 🚀 Current Status
 
+
 ```python
 class SumithBR:
 
@@ -218,6 +219,7 @@ class SumithBR:
     def life_motto(self):
         return "Build intelligent systems that solve real-world problems 🚀"
 ```
+
 
 
 # 💡 Quote
