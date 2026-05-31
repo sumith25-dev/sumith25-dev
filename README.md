@@ -191,35 +191,20 @@ Prompt Engineering
 
 ## 🚀 Current Status
 
+$ whoami
+Sumith B R
 
-```python
-class SumithBR:
+$ role
+AI & ML Engineer
 
-    def __init__(self):
-        self.name = "Sumith B R"
-        self.role = "AI & ML Engineer"
-        self.location = "Karnataka, India"
+$ currently_learning
+MLOps
+Kubernetes
+AWS
+LLMs
 
-        self.skills = [
-            "Machine Learning",
-            "Deep Learning",
-            "MLOps",
-            "Computer Vision",
-            "LLMs"
-        ]
-
-    def current_focus(self):
-        return [
-            "Building Production ML Systems",
-            "Learning Kubernetes",
-            "Mastering AWS",
-            "Exploring LLM Fine-Tuning"
-        ]
-
-    def life_motto(self):
-        return "Build intelligent systems that solve real-world problems 🚀"
-```
-
+$ current_goal
+Build scalable AI products 🚀
 
 
 # 💡 Quote
