@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Sumith+B+R;AI+%26+ML+Engineer;MLOps+Engineer;Deep+Learning+Enthusiast;Building+Production+ML+Systems+🚀;Open+to+ML+Engineer+Roles" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+I+am+Sumith+B+R;AI+and+ML+Engineer;MLOps+Engineer;Deep+Learning+Enthusiast;Building+Production+ML+Systems;Open+to+ML+Engineer+Roles" alt="Typing SVG" />
+
 
 </div>
 
