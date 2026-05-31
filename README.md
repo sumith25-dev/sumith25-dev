@@ -1,4 +1,5 @@
 <div align="center">
+👋 Hi, I'm Sumith B R
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sumith%20B%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%26%20ML%20Engineer%20%7C%20MLOps%20%7C%20Deep%20Learning&descAlignY=55&descSize=18"/>
 
