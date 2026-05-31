@@ -189,23 +189,18 @@ Prompt Engineering
 
 # 🔥 Current Focus
 
-## 🚀 Current Status
 
-$ whoami
-Sumith B R
+🔹 Building Production ML Systems
 
-$ role
-AI & ML Engineer
+🔹 Learning Kubernetes & AWS
 
-$ currently_learning
-MLOps
-Kubernetes
-AWS
-LLMs
+🔹 Exploring LLM Fine-Tuning
 
-$ current_goal
-Build scalable AI products 🚀
+🔹 Developing MLOps Pipelines
 
+🔹 Open to AI/ML Engineer Opportunities
+
+---
 
 # 💡 Quote
 
